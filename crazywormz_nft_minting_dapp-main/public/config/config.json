@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf1a15d6e9f765808dfd9d6834a844a16dbe8bdbb",
+  "SCAN_LINK": "https://polygonscan.com/token/0xf1a15d6e9f765808dfd9d6834a844a16dbe8bdbb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crazy Wormz",
+  "SYMBOL": "CW",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 70000000000000000000,
+  "DISPLAY_COST": 70,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crazy-wormz",
+  "SHOW_BACKGROUND": true
+}
